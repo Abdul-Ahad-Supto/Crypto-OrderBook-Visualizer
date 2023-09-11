@@ -1,15 +1,13 @@
 # Crypto Order Book Visualizer
 
-# Crypto Order Book Visualizer
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repository)
-![GitHub license](https://img.shields.io/github/license/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer)
-![GitHub stars](https://img.shields.io/github/stars/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer)
-![GitHub forks](https://img.shields.io/github/forks/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer)
+![GitHub last commit](https://img.shields.io/github/stars/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer?style=social&token=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)
+![GitHub license](https://img.shields.io/github/license/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer?style=social&token=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)
+![GitHub forks](https://img.shields.io/github/forks/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer?style=social&token=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)
 
 The Crypto Order Book Visualizer is a Python-based tool that allows you to monitor the order book for a specific cryptocurrency trading pair on the Binance exchange. It provides a real-time visualization of buy and sell orders, helping you to understand market dynamics more effectively.
 
-![Screenshot](C:\Users\User\Pictures\Screenshots.png)
+![Screenshot](https://github.com/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer/assets/105455928/3e8097e1-82b9-4e9d-be39-16ac6533d60f)
+
 
 
 ## Features
@@ -53,7 +51,10 @@ This improved README includes clearer sections, usage instructions, prerequisite
 
 # Buy me a coffee
 If you Found my content helpful you can buy me a coffee :)
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ahadsupto4q" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
-bep20 adress : 0xf6dc3da75072c40ceeca279fa4c0b6e665d8b42b
-btc adress : 0xf6dc3da75072c40ceeca279fa4c0b6e665d8b42b
+
+
+<a href="https://www.buymeacoffee.com/ahadsupto4q"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ahadsupto4q&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+- bep20 adress : 0xf6dc3da75072c40ceeca279fa4c0b6e665d8b42b
+- btc adress : 0xf6dc3da75072c40ceeca279fa4c0b6e665d8b42b
