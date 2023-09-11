@@ -6,8 +6,7 @@
 
 The Crypto Order Book Visualizer is a Python-based tool that allows you to monitor the order book for a specific cryptocurrency trading pair on the Binance exchange. It provides a real-time visualization of buy and sell orders, helping you to understand market dynamics more effectively.
 
-![Screenshot](https://github.com/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer/assets/105455928/3e8097e1-82b9-4e9d-be39-16ac6533d60f)
-
+![Screenshot](https://github.com/Abdul-Ahad-Supto/Crypto-OrderBook-Visualizer/assets/105455928/f07a0c1d-f9ef-4316-ab9f-cb25eabcccd0)
 
 
 ## Features
